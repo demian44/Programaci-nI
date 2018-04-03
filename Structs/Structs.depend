@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522707960 source:e:\structs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entidades.h"
+
+1522683931 e:\structs\entidades.h
+
